@@ -1,11 +1,12 @@
-# Funcionalidades
+# Servidor feito na next level week 02
 
-## Conexões
+## Finalidade
 
-- Rota para listar total de conexões já realizadas
-- Rota para criar uma nova conexão
+Feito para armazenar os horários dos professores que se cadastraram para dar aula. Também armazena as conexões feitas pelos usuários dentro da plataforma
 
-## Aulas
-- Rota para criar uma aula
-- Rota para listar aulas;
- - Filtrar por hora, dia da semana e horário
+## Como usar 
+1- Abra o programa no editor visual studio code e abra o terminal. Caso esteja no Linux pode abrir o servidor no terminal e digitar `yarn start`.
+
+## Especificações
+
+1- Servidor rodando na porta 8080. 
